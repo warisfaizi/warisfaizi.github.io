@@ -1,16 +1,33 @@
 {
-  "name": "Dr. Jane Placeholder",
-  "title": "Assistant Professor of Something Interesting",
-  "affiliation": "University of Somewhere",
-  "photoPath": "./assets/images/headshot.svg",
+  "name": "Waris Ahmad Faizi",
+  "title": "Ph.D. Student in Sociology",
+  "affiliation": "Department of Sociology, Virginia Tech",
+  "tagline": "Economic Sociology · Digital Sociology · Work, Labor, and Organizations · Computational Social Science",
+  "photoPath": "./assets/images/headshot.jpg",
+  "photoFallback": "./assets/images/headshot.svg",
   "bio": [
-    "I am a researcher studying interesting things. My work combines methods from one field with questions from another to understand how the world works.",
-    "Before joining the University of Somewhere, I completed my Ph.D. at Another University, where I was advised by Prof. Great Mentor."
+    "I am a Ph.D. student in the Department of Sociology at Virginia Tech, where I study economic sociology, digital sociology, and the sociology of work, labor, and organizations. My research asks how economic value is produced, measured, and unequally distributed — across labor markets, platform and influencer economies, and the moral evaluation of care work.",
+    "Methodologically, I work at the intersection of quantitative methods and computational social science. I use large-scale survey data, computational text analysis, and systematic review to study occupational change and reskilling in the age of AI, economic precarity and the quality of work life, social capital and economic mobility, and polarization in public confidence in science and political institutions.",
+    "Before joining Virginia Tech, I earned an M.A. in Sociology from the American University of Central Asia, an M.A. in Economics from the OSCE Academy, and a B.A. in Economics from Kabul University. I have worked as a researcher and university lecturer in Afghanistan, Kyrgyzstan, and Kazakhstan, and as a research consultant on a World Bank project."
   ],
+  "interests": [
+    "Economic Sociology",
+    "Digital Sociology",
+    "Labor, Work, and Organizations",
+    "Quantitative Methods",
+    "Computational Social Science"
+  ],
+  "contact": {
+    "email": "warisahmad@vt.edu",
+    "office": "555 McBryde Hall",
+    "address": "225 Stanger Street, Blacksburg, VA 24061"
+  },
   "links": [
-    { "label": "Google Scholar", "url": "https://scholar.google.com/" },
-    { "label": "GitHub", "url": "https://github.com/" },
-    { "label": "CV", "url": "./docs/cv.pdf" },
-    { "label": "Email", "url": "mailto:jane@example.edu" }
+    { "label": "Google Scholar", "icon": "scholar", "url": "https://scholar.google.com/citations?user=fRdDh-AAAAAJ&hl=en" },
+    { "label": "LinkedIn", "icon": "linkedin", "url": "https://www.linkedin.com/in/waris-a-faizi-1341a1141/" },
+    { "label": "GitHub", "icon": "github", "url": "https://github.com/warisfaizi" },
+    { "label": "Virginia Tech Profile", "icon": "university", "url": "https://experts.vt.edu/33212-waris-ahmad-faizi" },
+    { "label": "C.V.", "icon": "cv", "url": "./docs/cv.pdf" },
+    { "label": "Email", "icon": "email", "url": "mailto:warisahmad@vt.edu" }
   ]
 }

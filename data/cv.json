@@ -1,0 +1,144 @@
+{
+  "pdf": "./docs/cv.pdf",
+  "sections": [
+    {
+      "heading": "Education",
+      "type": "timeline",
+      "items": [
+        { "period": "2024 – present", "title": "Ph.D., Sociology", "org": "Virginia Tech Graduate School" },
+        { "period": "2023", "title": "M.A., Sociology", "org": "American University of Central Asia" },
+        { "period": "2020", "title": "M.A., Economics", "org": "Organization for Security and Cooperation in Europe (OSCE) Academy" },
+        { "period": "2015", "title": "B.A., Economics", "org": "Kabul University" }
+      ]
+    },
+    {
+      "heading": "Areas of Research Interest",
+      "type": "tags",
+      "items": [
+        "Economic Sociology",
+        "Digital Sociology",
+        "Labor, Work, and Organizations",
+        "Quantitative Methods",
+        "Computational Social Science"
+      ]
+    },
+    {
+      "heading": "Academic and Professional Experience",
+      "type": "timeline",
+      "items": [
+        {
+          "period": "2025 – present",
+          "title": "Graduate Teaching Assistant",
+          "org": "Department of Sociology, Virginia Tech",
+          "bullets": [
+            "SOC 1004: Introductory Sociology",
+            "SOC 3204: Social Research Methods",
+            "AFST 1814: Introduction to African Studies",
+            "AFST 4354: Topics in Africana Studies"
+          ]
+        },
+        { "period": "Summer 2025", "title": "Graduate Research Assistant", "org": "Department of Sociology, Virginia Tech" },
+        {
+          "period": "2024 – 2025",
+          "title": "Graduate Teaching Assistant",
+          "org": "Department of Sociology, Virginia Tech",
+          "bullets": [
+            "SOC 1004: Introductory Sociology",
+            "SOC 3204: Social Research Methods",
+            "AFST 1814: Introduction to African Studies",
+            "AFST 4354: Topics in Africana Studies"
+          ]
+        },
+        { "period": "2022 – 2023", "title": "Research Intern", "org": "Vice President Office for Academic Affairs, American University of Central Asia" },
+        { "period": "2021", "title": "Research Fellow", "org": "Central Asia Program, George Washington University" },
+        { "period": "2021", "title": "Research Intern", "org": "Center for Research and Graduate Education (CRGE), Kazakh-German University (DKU)" },
+        { "period": "2021", "title": "Research Consultant", "org": "The World Bank Project, Pearl Horizon Consulting" },
+        { "period": "2019 – 2021", "title": "Lecturer / Instructor", "org": "Gawharshad University" },
+        { "period": "2019 – 2021", "title": "Lecturer / Instructor", "org": "Tolo-e-Aftab Institute of Higher Education" },
+        { "period": "2016 – 2021", "title": "Lecturer / Instructor", "org": "Sayed Jamaluddin Afghan Institute of Higher Education" },
+        { "period": "2016 – 2018", "title": "Lecturer / Instructor", "org": "Fanoos Institute of Higher Education" }
+      ]
+    },
+    {
+      "heading": "Awards and Honors",
+      "type": "timeline",
+      "items": [
+        { "period": "2026", "title": "Dean's Graduate Scholar", "org": "College of Liberal Arts and Human Sciences, Virginia Tech", "bullets": ["CLAHS Fellowship Award"] },
+        { "period": "2026", "title": "Center for Humanities Graduate Student Fellowship", "org": "Virginia Tech" },
+        { "period": "2025", "title": "Patricia and John Edwards Fellowship Award", "org": "Virginia Tech" },
+        { "period": "2023", "title": "Student Initiative Development Program Fund", "org": "Center for Civic Engagement, American University of Central Asia, Bishkek" },
+        { "period": "2022", "title": "Erasmus+ Exchange Scholarship", "org": "Otto-von-Guericke University (OVGU), Germany" },
+        { "period": "2021", "title": "Central Asia Program Research Fellowship", "org": "George Washington University" },
+        { "period": "2021", "title": "M.A. Sociology Program Full Scholarship", "org": "American University of Central Asia" },
+        { "period": "2019", "title": "M.A. Economics Program Full Scholarship", "org": "OSCE Academy" }
+      ]
+    },
+    {
+      "heading": "Statistical Software",
+      "type": "tags",
+      "items": ["R", "Python", "Stata", "SPSS", "JMP"]
+    },
+    {
+      "heading": "Pedagogy Certification",
+      "type": "timeline",
+      "items": [
+        {
+          "period": "2025 – 2026",
+          "title": "Future Professoriate / Global Perspectives Program (GPP)",
+          "org": "Virginia Tech",
+          "bullets": [
+            "Preparing Future Professoriate (3 credits), Fall 2025",
+            "Contemporary Pedagogy (3 credits), Spring 2026",
+            "Higher Education 360 (3 credits), Spring 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "University Service",
+      "type": "timeline",
+      "items": [
+        { "period": "2023", "title": "Career Development Mentor / Trainer", "org": "American University of Central Asia" }
+      ]
+    },
+    {
+      "heading": "Training, Workshops, and Events",
+      "type": "list",
+      "items": [
+        { "period": "2026", "text": "Social Network Analysis, University of California, Davis (Coursera)" },
+        { "period": "2026", "text": "Causal Inference, Columbia University (Coursera)" },
+        { "period": "2026", "text": "Social and Economic Networks: Models and Analysis, Stanford University (Coursera)" },
+        { "period": "2026", "text": "Narrative Economics, Yale University (Coursera)" },
+        { "period": "2026", "text": "Best Practices for Mentorship in Teaching, Virginia Tech" },
+        { "period": "2026", "text": "Introduction to Geospatial Mapping and ArcGIS Online, Virginia Tech" },
+        { "period": "2026", "text": "Manage Your Scholarly Identity Challenge Course, Virginia Tech" },
+        { "period": "2026", "text": "Connect to ARC Systems with VSCode, Virginia Tech" },
+        { "period": "2026", "text": "Advanced Research Computing Roadmap, Virginia Tech" },
+        { "period": "2026", "text": "The Joyful Journey: Graduate Student and Postdoctoral Scholar Professional Development Series, CIRTL" },
+        { "period": "2025", "text": "Day for Data, AI &amp; Analytics Symposium, Center for the Arts, Virginia Tech" },
+        { "period": "2025", "text": "Datapalooza 2025: Truth and Accountability in the Age of AI, University of Virginia School of Data Science" },
+        { "period": "2025", "text": "Preparing for the Academic Job Market Workshop Series, University of North Carolina at Chapel Hill" },
+        { "period": "2025", "text": "Summer Institute for Undergraduate Education, Virginia Tech" },
+        { "period": "2025", "text": "Introduction to LaTeX with Overleaf, Virginia Tech" },
+        { "period": "2025", "text": "Introduction to Database Management and SQL, Virginia Tech" },
+        { "period": "2024", "text": "Social &amp; Behavioral Research (CITI Basic Course)" },
+        { "period": "2024", "text": "Graduate Teaching Assistant (GTA) Workshop Series, Virginia Tech" },
+        { "period": "2021 – 2025", "text": "Courses in Python and R, LinkedIn Learning and DataCamp" }
+      ]
+    },
+    {
+      "heading": "Professional Affiliations",
+      "type": "tags",
+      "items": [
+        "American Sociological Association (ASA)",
+        "Southern Sociological Society (SSS)",
+        "Eastern Sociological Society (ESS)",
+        "Society for the Study of Social Problems (SSSP)",
+        "Association for Humanist Sociology (AHS)",
+        "Pacific Sociological Association (PSA)",
+        "Dataism Laboratory for Quantitative Finance (DLQF), Virginia Tech",
+        "Center for Humanities (CfH), Virginia Tech"
+      ]
+    }
+  ]
+}

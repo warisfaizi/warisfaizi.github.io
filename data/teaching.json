@@ -1,15 +1,62 @@
 [
   {
-    "title": "Introduction to Interesting Things",
-    "role": "Instructor",
-    "institution": "University of Somewhere",
-    "term": "Spring 2026",
-    "description": "An undergraduate introduction to the field, covering foundational concepts and hands-on methods."
+    "group": "Virginia Tech",
+    "code": "SOC 1004",
+    "title": "Introductory Sociology",
+    "role": "Graduate Teaching Assistant",
+    "institution": "Department of Sociology",
+    "term": "2024 – present"
   },
   {
-    "title": "Advanced Methods Seminar",
-    "role": "Teaching Assistant",
-    "institution": "Another University",
-    "term": "Fall 2023"
+    "group": "Virginia Tech",
+    "code": "SOC 3204",
+    "title": "Social Research Methods",
+    "role": "Graduate Teaching Assistant",
+    "institution": "Department of Sociology",
+    "term": "2024 – present"
+  },
+  {
+    "group": "Virginia Tech",
+    "code": "AFST 1814",
+    "title": "Introduction to African Studies",
+    "role": "Graduate Teaching Assistant",
+    "institution": "Department of Sociology",
+    "term": "2024 – present"
+  },
+  {
+    "group": "Virginia Tech",
+    "code": "AFST 4354",
+    "title": "Topics in Africana Studies",
+    "role": "Graduate Teaching Assistant",
+    "institution": "Department of Sociology",
+    "term": "2024 – present"
+  },
+  {
+    "group": "Previous Appointments",
+    "title": "Gawharshad University",
+    "role": "Lecturer / Instructor",
+    "institution": "Kabul, Afghanistan",
+    "term": "2019 – 2021"
+  },
+  {
+    "group": "Previous Appointments",
+    "title": "Tolo-e-Aftab Institute of Higher Education",
+    "role": "Lecturer / Instructor",
+    "institution": "Kabul, Afghanistan",
+    "term": "2019 – 2021"
+  },
+  {
+    "group": "Previous Appointments",
+    "title": "Sayed Jamaluddin Afghan Institute of Higher Education",
+    "role": "Lecturer / Instructor",
+    "institution": "Kabul, Afghanistan",
+    "term": "2016 – 2021"
+  },
+  {
+    "group": "Previous Appointments",
+    "title": "Fanoos Institute of Higher Education",
+    "role": "Lecturer / Instructor",
+    "institution": "Kabul, Afghanistan",
+    "term": "2016 – 2018"
   }
 ]

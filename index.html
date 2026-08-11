@@ -3,86 +3,46 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <!-- The page title is also set from data/profile.json at load time -->
-  <title>Academic Website</title>
-  <meta name="description" content="Personal academic website" />
+  <title>Waris Ahmad Faizi</title>
+  <meta name="description" content="Waris Ahmad Faizi is a Ph.D. student in Sociology at Virginia Tech studying economic sociology, digital sociology, work and labor, and computational social science." />
+  <link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="./css/styles.css" />
 </head>
-<body>
-  <header class="site-header">
-    <nav class="site-nav" aria-label="Main navigation">
-      <a class="nav-name" href="#top" id="nav-name"></a>
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">&#9776;</button>
-      <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#news">News</a></li>
-        <li><a href="#publications">Publications</a></li>
-        <li><a href="#working-papers">Working Papers</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#talks">Talks</a></li>
-        <li><a href="#software">Software</a></li>
-        <li><a href="#teaching">Teaching</a></li>
-      </ul>
-    </nav>
-  </header>
+<body data-page="home">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header"></header>
 
-  <main id="top">
-    <!-- Every section below is rendered from a data/*.json file by its js/*.js module.
-         Do not hardcode content here: edit the JSON files instead.
+  <main id="main">
+    <!-- Every section below is rendered from a data/*.json file by its js/*.js
+         module. Do not hardcode content here: edit the JSON files instead.
          A section with no data (missing/empty JSON) hides itself automatically. -->
 
-    <section id="about" class="section profile-section">
-      <div id="profile-container"></div>
+    <section id="hero" hidden>
+      <div id="hero-container"></div>
+    </section>
+
+    <section id="about" class="section" hidden>
+      <h2 class="section-title">About</h2>
+      <div class="bio-grid">
+        <div class="prose" id="bio-container"></div>
+        <aside class="sidecard">
+          <h3>Research Interests</h3>
+          <div id="interests-container"></div>
+        </aside>
+      </div>
     </section>
 
     <section id="news" class="section" hidden>
-      <h2>News</h2>
+      <h2 class="section-title">News</h2>
       <div id="news-container"></div>
-    </section>
-
-    <section id="publications" class="section" hidden>
-      <h2>Publications</h2>
-      <div id="publications-container"></div>
-    </section>
-
-    <section id="working-papers" class="section" hidden>
-      <h2>Working Papers</h2>
-      <div id="working-papers-container"></div>
-    </section>
-
-    <section id="projects" class="section" hidden>
-      <h2>Ongoing Projects</h2>
-      <div id="projects-container"></div>
-    </section>
-
-    <section id="talks" class="section" hidden>
-      <h2>Talks</h2>
-      <div id="talks-container"></div>
-    </section>
-
-    <section id="software" class="section" hidden>
-      <h2>Software</h2>
-      <div id="software-container"></div>
-    </section>
-
-    <section id="teaching" class="section" hidden>
-      <h2>Teaching</h2>
-      <div id="teaching-container"></div>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <p id="footer-text"></p>
-  </footer>
+  <footer class="site-footer"></footer>
 
   <script src="./js/utils.js"></script>
+  <script src="./js/chrome.js"></script>
   <script src="./js/profile.js"></script>
   <script src="./js/news.js"></script>
-  <script src="./js/publications.js"></script>
-  <script src="./js/working_papers.js"></script>
-  <script src="./js/ongoing_projects.js"></script>
-  <script src="./js/talks.js"></script>
-  <script src="./js/software.js"></script>
-  <script src="./js/teaching.js"></script>
 </body>
 </html>

@@ -1,20 +1,16 @@
 [
   {
-    "title": "A very important finding about an interesting phenomenon",
-    "authors": "Jane Placeholder, Collaborator One, Collaborator Two",
-    "publication": "Journal of Important Findings",
-    "year": "2025",
-    "url": "https://doi.org/10.0000/example.2025",
-    "pdfPath": "./docs/publications/2025_Placeholder_ImportantFinding/2025_Placeholder_ImportantFinding.pdf",
-    "bibPath": "./docs/publications/2025_Placeholder_ImportantFinding/cite.bib"
+    "title": "The Future of the CASA-1000 Electric Megaproject in the Context of the New Afghanistan",
+    "authors": "Waris Ahmad Faizi",
+    "publication": "Central Asia Program, George Washington University",
+    "year": "2021",
+    "url": "https://centralasiaprogram.org/archive/central-asia-research-paper/the-future-of-the-casa-1000-electric-megaproject-in-the-context-of-the-new-afghanistan/"
   },
   {
-    "title": "An earlier study that laid the groundwork",
-    "authors": "Jane Placeholder, Collaborator One",
-    "publication": "Proceedings of the Conference on Groundwork",
-    "year": "2024",
-    "url": "https://doi.org/10.0000/example.2024",
-    "pdfPath": "./docs/publications/2024_Placeholder_EarlierStudy/2024_Placeholder_EarlierStudy.pdf",
-    "bibPath": "./docs/publications/2024_Placeholder_EarlierStudy/cite.bib"
+    "title": "Impact of Development Projects on Jobs Creation in Afghanistan (2016–2019)",
+    "authors": "Waris Ahmad Faizi",
+    "publication": "OSCE Academy in Bishkek",
+    "year": "2020",
+    "url": "https://mt.osce-academy.kg/handle/123456789/430"
   }
 ]

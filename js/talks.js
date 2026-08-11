@@ -2,13 +2,16 @@
 Site.load("./data/talks.json", "talks-container", (container, talks) => {
   talks.forEach(({ title, location, date, link }) => {
     const item = Site.el("div", "item");
-    const heading = Site.el("p", "item-title");
+    item.appendChild(Site.el("div", "item-date", date || ""));
+
+    const body = document.createElement("div");
+    const heading = Site.el("h3", "item-title");
     if (link) heading.appendChild(Site.link(link, title));
     else heading.textContent = title;
-    item.appendChild(heading);
+    body.appendChild(heading);
 
-    const meta = [location, date].filter(Boolean).join(" — ");
-    if (meta) item.appendChild(Site.el("p", "item-meta", meta));
+    if (location) body.appendChild(Site.el("p", "item-meta", location));
+    item.appendChild(body);
     container.appendChild(item);
   });
 });

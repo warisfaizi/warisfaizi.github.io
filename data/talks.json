@@ -1,14 +1,47 @@
 [
   {
-    "title": "A very important finding about an interesting phenomenon",
-    "location": "Workshop on Interesting Things, University of Somewhere",
-    "date": "2026",
-    "link": "https://example.edu"
+    "title": "Social Capital and the Geography of Opportunity: Economic Connectedness, Bias, and Mobility in the United States",
+    "location": "Southern Sociological Society (SSS) 2026 Annual Meeting, Jacksonville, FL",
+    "date": "April 8–11, 2026"
   },
   {
-    "title": "An earlier study that laid the groundwork",
-    "location": "Conference on Groundwork",
-    "date": "2024",
-    "link": "https://example.edu"
+    "title": "Divergent Value Trajectories: Cultural and Economic Liberalization in the United States, 2004–2024",
+    "location": "42nd Annual GPSS Research Symposium and Exposition, Virginia Tech, Blacksburg, VA",
+    "date": "March 25, 2026"
+  },
+  {
+    "title": "The Moral Economies of Influencer Culture: Visibility, Value, and Intersectional Precarity",
+    "location": "Eastern Sociological Society (ESS), 96th Annual Meeting, Washington, DC",
+    "date": "March 5–8, 2026"
+  },
+  {
+    "title": "Redistribution Gap: Class, Race and Political Ideology in Shaping Attitudes Toward Inequality",
+    "location": "Association for Humanist Sociology (AHS), 49th Annual Meeting, Columbus, OH",
+    "date": "November 5–9, 2025"
+  },
+  {
+    "title": "Economic Precarity, Quality of Work Life, and Social Trust: An Empirical Study of the U.S. Workforce (2004–2024)",
+    "location": "Society for the Study of Social Problems (SSSP) 2025 Annual Meeting, Chicago, IL",
+    "date": "August 8–10, 2025"
+  },
+  {
+    "title": "Public, Private, or Personal: Comparative Impacts of Government, Private, and Self-Employment on Job and Financial Satisfaction in the United States",
+    "location": "Canadian Association for Work and Labour Studies (CAWLS), Hamilton, Ontario",
+    "date": "May 28–30, 2025"
+  },
+  {
+    "title": "Digital Transformation and Work Paradigm's Shift: Remote Work's Impact on Social Networks and Integration, Well-being, and Economic Stability in the United States",
+    "location": "Southern Sociological Society (SSS) 2025 Annual Meeting, Charlotte, NC",
+    "date": "April 9–12, 2025"
+  },
+  {
+    "title": "Efficacy of Human Skills Development as a Source of Regional Competitive Advantage and Economic Development in Afghanistan",
+    "location": "South Asian Economics Students' Meet (SAESM), Colombo, Sri Lanka",
+    "date": "April 2016"
+  },
+  {
+    "title": "Afghan Carpets' Export Situation: Challenges and Opportunities",
+    "location": "South Asian Economics Students' Meet (SAESM), Thimphu, Bhutan",
+    "date": "December 2014"
   }
 ]

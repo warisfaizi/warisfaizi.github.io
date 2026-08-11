@@ -1,10 +1,32 @@
 [
   {
-    "title": "A large ongoing research project",
-    "description": "A multi-year effort to understand an important phenomenon using new data sources and methods."
+    "title": "The Moral Economies of Influencer Culture: Visibility, Value, and Intersectional Precarity",
+    "authors": "Waris Ahmad Faizi",
+    "description": "How visibility is converted into economic value in the influencer economy, and how that conversion reproduces intersectional forms of precarity."
   },
   {
-    "title": "A second project in early stages",
-    "description": "An exploratory collaboration investigating a promising new direction."
+    "title": "Divergent Value Trajectories: Cultural and Economic Liberalization in the United States, 2004–2024",
+    "authors": "Waris Ahmad Faizi",
+    "description": "Two decades of survey evidence on whether cultural and economic attitudes have liberalized together or pulled apart."
+  },
+  {
+    "title": "Platform Labor, Identity, and Inequality: A Systematic Review of Gig Work Through an Intersectional Lens",
+    "authors": "Waris Ahmad Faizi",
+    "description": "A systematic review synthesizing what the gig-work literature shows — and overlooks — about identity and inequality on labor platforms."
+  },
+  {
+    "title": "Social Capital and the Geography of Opportunity: Economic Connectedness, Bias, and Mobility in the United States",
+    "authors": "Waris Ahmad Faizi",
+    "description": "How cross-class social connectedness and social bias shape economic mobility across U.S. places."
+  },
+  {
+    "title": "Pricing Care Labor: A Computational Systematic Review of How Care Work is Economically and Socially Devalued",
+    "authors": "Waris Ahmad Faizi",
+    "description": "A computational review of the mechanisms through which care work is priced below its social value."
+  },
+  {
+    "title": "Item Level Bias in the NSF-sponsored Science Knowledge Scale, 2006–2024",
+    "authors": "J. Micah Roos, Waris Ahmad Faizi, and Shih-Hao Lin",
+    "description": "Measurement work on differential item functioning in the science-knowledge scale used across two decades of national surveys."
   }
 ]

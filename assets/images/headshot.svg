@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Placeholder headshot">
-  <rect width="160" height="160" fill="#d9dee3"/>
-  <circle cx="80" cy="62" r="28" fill="#9aa4ae"/>
-  <path d="M 30 140 Q 30 100 80 100 Q 130 100 130 140 L 130 160 L 30 160 Z" fill="#9aa4ae"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Placeholder portrait">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f7f5"/>
+      <stop offset="100%" stop-color="#ece9e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#g)"/>
+  <circle cx="200" cy="163" r="62" fill="#861f41" opacity="0.85"/>
+  <path d="M200 240c-62 0-112 41-112 92v68h224v-68c0-51-50-92-112-92z" fill="#861f41" opacity="0.85"/>
 </svg>
