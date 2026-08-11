@@ -55,7 +55,10 @@
     const wrap = Site.el("div", "hero");
 
     const text = Site.el("div", "hero-text");
-    text.appendChild(Site.el("h1", "hero-name", profile.name || ""));
+    // `displayName` lets the hero use a shorter form than the full name
+    // that the nav, footer, and page titles carry.
+    const heroName = profile.displayName || profile.name || "";
+    text.appendChild(Site.el("h1", "hero-name", heroName));
     if (profile.title) {
       text.appendChild(Site.el("p", "hero-role", profile.title));
     }

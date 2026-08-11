@@ -14,6 +14,7 @@ interest chips, and the contact page. Also fills the nav brand and footer on eve
 ```json
 {
   "name": "Waris Ahmad Faizi",
+  "displayName": "Waris Faizi",
   "title": "Ph.D. Student in Sociology",
   "affiliation": "Department of Sociology, Virginia Tech",
   "tagline": "Economic Sociology · Digital Sociology · …",
@@ -37,8 +38,9 @@ interest chips, and the contact page. Also fills the nav brand and footer on eve
 - `links[].icon` selects an inline SVG from `Site.ICONS` in `js/utils.js`:
   `scholar`, `linkedin`, `github`, `university`, `email`, `cv`. Unknown names fall back to
   `university`. The `cv` icon renders as a labelled pill rather than a circle.
-- Optional: `tagline`, `photoPath`, `photoFallback` (shown if `photoPath` 404s), `interests`,
-  `contact`.
+- Optional: `displayName` (the big name in the home hero; falls back to `name`, which is what the
+  nav brand and footer always use), `tagline`, `photoPath`, `photoFallback` (shown if `photoPath`
+  404s), `interests`, `contact`.
 
 ## data/publications.json — published work
 
