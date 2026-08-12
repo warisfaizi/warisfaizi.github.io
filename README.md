@@ -58,6 +58,14 @@ the site automatically falls back to the placeholder illustration `assets/images
 Replace `docs/cv.pdf`. The download button on the C.V. page and the C.V. link in the header row
 both point at it.
 
+The PDF is rendered from `Faizi_CV.html` (kept in `MY ACADEMIC PORTFOLIO/`, outside this repo),
+which matches this site's palette:
+
+```bash
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+  --headless --no-pdf-header-footer --print-to-pdf=Faizi_CV.pdf Faizi_CV.html
+```
+
 ## Preview locally
 
 ```bash
