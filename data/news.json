@@ -3,6 +3,10 @@
     "year": "2026",
     "items": [
       {
+        "type": "General",
+        "htmltext": "Took part in the <a href='https://sicss.io/' target='_blank'>Summer Institutes in Computational Social Science (SICSS)</a> at Stanford University."
+      },
+      {
         "type": "Talk",
         "htmltext": "Presented &ldquo;Social Capital and the Timing of Corporate Elite Mobility&rdquo; at the <a href='https://www.asanet.org/annual-meeting/' target='_blank'>American Sociological Association</a> 121st Annual Meeting in New York City."
       },

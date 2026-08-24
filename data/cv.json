@@ -32,6 +32,20 @@
           "org": "Department of Sociology, Virginia Tech"
         },
         {
+          "period": "August 2026",
+          "title": "Participant",
+          "org": "Summer Institutes in Computational Social Science (SICSS), Stanford University"
+        },
+        {
+          "period": "July – August 2026",
+          "title": "Teaching Assistant",
+          "org": "ICPSR Summer Program in Quantitative Methods, University of Michigan",
+          "bullets": [
+            "Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes"
+          ]
+        },
+        { "period": "May – June 2026", "title": "Graduate Research Assistant", "org": "Department of Sociology, Virginia Tech" },
+        {
           "period": "2025 – 2026",
           "title": "Graduate Teaching Assistant",
           "org": "Department of Sociology, Virginia Tech",
@@ -40,14 +54,6 @@
             "SOC 3204: Social Research Methods",
             "AFST 1814: Introduction to African Studies",
             "AFST 4354: Topics in Africana Studies"
-          ]
-        },
-        {
-          "period": "July – August 2026",
-          "title": "Teaching Assistant",
-          "org": "ICPSR Summer Program in Quantitative Methods, University of Michigan",
-          "bullets": [
-            "Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes"
           ]
         },
         { "period": "Summer 2025", "title": "Graduate Research Assistant", "org": "Department of Sociology, Virginia Tech" },
