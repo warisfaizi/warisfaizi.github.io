@@ -117,6 +117,7 @@
       "heading": "University Service",
       "type": "timeline",
       "items": [
+        { "period": "January – June 2026", "title": "Graduate Research Fellow", "org": "Center for Humanities (CfH), Virginia Tech" },
         { "period": "2023", "title": "Career Development Mentor / Trainer", "org": "American University of Central Asia" }
       ]
     },
