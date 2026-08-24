@@ -102,6 +102,28 @@
       ]
     },
     {
+      "heading": "Advanced Methods Training",
+      "type": "timeline",
+      "items": [
+        {
+          "period": "Summer 2026",
+          "title": "ICPSR Summer Program in Quantitative Methods",
+          "org": "Inter-university Consortium for Political and Social Research, University of Michigan",
+          "bullets": [
+            "Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes",
+            "Causal Inference for the Social Sciences II",
+            "Network Analysis II: Advanced Topics",
+            "Structural Equation Models with Latent Variables",
+            "Matrix Algebra, Calculus, and Probability: Introduction and Review",
+            "Introduction to Computing for Data Analysis",
+            "Introduction to Python",
+            "Introduction to the R Statistical Computing Environment",
+            "Introduction to the LaTeX Text Processing System"
+          ]
+        }
+      ]
+    },
+    {
       "heading": "Training, Workshops, and Events",
       "type": "list",
       "items": [

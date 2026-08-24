@@ -3,6 +3,10 @@
     "year": "2026",
     "items": [
       {
+        "type": "General",
+        "htmltext": "Completed the 2026 <a href='https://www.icpsr.umich.edu/web/pages/sumprog/' target='_blank'>ICPSR Summer Program in Quantitative Methods</a> at the University of Michigan, with coursework in categorical data analysis, causal inference, network analysis, and structural equation modeling."
+      },
+      {
         "type": "Award",
         "htmltext": "Named a <strong>Dean's Graduate Scholar</strong> in the <a href='https://liberalarts.vt.edu/' target='_blank'>College of Liberal Arts and Human Sciences</a> at Virginia Tech, which carries the CLAHS Fellowship Award."
       },
