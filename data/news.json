@@ -3,6 +3,14 @@
     "year": "2026",
     "items": [
       {
+        "type": "Talk",
+        "htmltext": "Presented &ldquo;Social Capital and the Timing of Corporate Elite Mobility&rdquo; at the <a href='https://www.asanet.org/annual-meeting/' target='_blank'>American Sociological Association</a> 121st Annual Meeting in New York City."
+      },
+      {
+        "type": "Talk",
+        "htmltext": "Presented &ldquo;Pricing Care Labor: The Devaluation of Bodywork and the Intersectional Division of Reproductive Labor&rdquo; at the <a href='https://sssp1.org/' target='_blank'>Society for the Study of Social Problems</a> 76th Annual Meeting in New York City."
+      },
+      {
         "type": "General",
         "htmltext": "Completed the 2026 <a href='https://www.icpsr.umich.edu/web/pages/sumprog/' target='_blank'>ICPSR Summer Program in Quantitative Methods</a> at the University of Michigan, with coursework in causal inference, network analysis, and structural equation modeling, and served as Teaching Assistant for Categorical Data Analysis."
       },
