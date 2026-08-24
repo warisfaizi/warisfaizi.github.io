@@ -5,8 +5,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Waris Ahmad Faizi</title>
   <meta name="description" content="Waris Ahmad Faizi is a Ph.D. student in Sociology at Virginia Tech studying economic sociology, digital sociology, work and labor, and computational social science." />
+  <link rel="canonical" href="https://warisfaizi.github.io/" />
   <link rel="icon" href="./assets/images/favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="./css/styles.css" />
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="Waris Ahmad Faizi" />
+  <meta property="og:description" content="Ph.D. student in Sociology at Virginia Tech studying economic sociology, digital sociology, work and labor, and computational social science." />
+  <meta property="og:url" content="https://warisfaizi.github.io/" />
+  <meta property="og:image" content="https://warisfaizi.github.io/assets/images/headshot.jpg" />
+  <meta name="twitter:card" content="summary" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Waris Ahmad Faizi",
+    "alternateName": "Waris Faizi",
+    "jobTitle": "Ph.D. Student in Sociology",
+    "url": "https://warisfaizi.github.io/",
+    "image": "https://warisfaizi.github.io/assets/images/headshot.jpg",
+    "email": "mailto:warisahmad@vt.edu",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Virginia Tech",
+      "department": "Department of Sociology"
+    },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "American University of Central Asia" },
+      { "@type": "CollegeOrUniversity", "name": "OSCE Academy in Bishkek" },
+      { "@type": "CollegeOrUniversity", "name": "Kabul University" }
+    ],
+    "knowsAbout": [
+      "Economic Sociology",
+      "Digital Sociology",
+      "Labor, Work, and Organizations",
+      "Computational Social Science",
+      "Quantitative Methods"
+    ],
+    "sameAs": [
+      "https://scholar.google.com/citations?user=fRdDh-AAAAAJ",
+      "https://www.linkedin.com/in/waris-a-faizi-1341a1141/",
+      "https://github.com/warisfaizi",
+      "https://experts.vt.edu/33212-waris-ahmad-faizi"
+    ]
+  }
+  </script>
 </head>
 <body data-page="home">
   <a class="skip-link" href="#main">Skip to content</a>
@@ -15,16 +57,35 @@
   <main id="main">
     <!-- Every section below is rendered from a data/*.json file by its js/*.js
          module. Do not hardcode content here: edit the JSON files instead.
-         A section with no data (missing/empty JSON) hides itself automatically. -->
+         A section with no data (missing/empty JSON) hides itself automatically.
 
-    <section id="hero" hidden>
-      <div id="hero-container"></div>
+         EXCEPTION: the hero and the first bio paragraph carry a static copy of
+         data/profile.json so search crawlers and no-JS visitors see who this
+         is without executing JavaScript. js/profile.js REPLACES this markup on
+         load. If you change name/title/affiliation or the opening bio sentence
+         in data/profile.json, mirror it here too. -->
+
+    <section id="hero">
+      <div id="hero-container">
+        <div class="hero">
+          <div class="hero-text">
+            <h1 class="hero-name">Waris Faizi</h1>
+            <p class="hero-role">Ph.D. Student in Sociology</p>
+            <p class="hero-affiliation">Department of Sociology, Virginia Tech</p>
+          </div>
+          <div class="hero-photo-wrap">
+            <img class="hero-photo" src="./assets/images/headshot.jpg" alt="Waris Ahmad Faizi" />
+          </div>
+        </div>
+      </div>
     </section>
 
-    <section id="about" class="section" hidden>
+    <section id="about" class="section">
       <h2 class="section-title">About</h2>
       <div class="bio-grid">
-        <div class="prose" id="bio-container"></div>
+        <div class="prose" id="bio-container">
+          <p>I am a Ph.D. student in the Department of Sociology at Virginia Tech, where I study economic sociology, digital sociology, and the sociology of work, labor, and organizations. My research asks how economic value is produced, measured, and unequally distributed — across labor markets, platform and influencer economies, and the moral evaluation of care work.</p>
+        </div>
         <aside class="sidecard">
           <h3>Research Interests</h3>
           <div id="interests-container"></div>

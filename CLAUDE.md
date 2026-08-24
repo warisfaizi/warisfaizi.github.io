@@ -9,6 +9,14 @@ JSON-driven, vanilla HTML/CSS/JS, no build step, deployed to GitHub Pages as-is.
 client-side by a matching `js/*.js` module via the `Site.load` helper in `js/utils.js`.
 A section whose data file is missing, empty, or malformed hides itself silently.
 
+**One deliberate exception, for search engines.** `index.html` contains a static copy of the
+hero (name, title, affiliation, headshot) and the first bio paragraph, because a crawler that
+does not execute JavaScript would otherwise see an empty page. `js/profile.js` replaces that
+markup on load (`replaceChildren`, not `appendChild`). **If you edit `name`, `displayName`,
+`title`, `affiliation`, or the opening bio paragraph in `data/profile.json`, mirror the change
+into `index.html`.** The JSON-LD `Person` block in `index.html` duplicates the same facts and
+the profile links, and needs the same treatment.
+
 ### Pages
 
 | Page | Sections | Data files |

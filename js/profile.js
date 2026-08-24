@@ -88,13 +88,16 @@
       wrap.appendChild(figure);
     }
 
-    hero.appendChild(wrap);
+    // replaceChildren, not appendChild: index.html seeds this container with a
+    // static copy of the hero so crawlers see it without running JavaScript.
+    hero.replaceChildren(wrap);
     Site.reveal(hero);
   }
 
   // --- Bio ------------------------------------------------------------------
   const bio = document.getElementById("bio-container");
   if (bio && profile.bio && profile.bio.length) {
+    bio.replaceChildren(); // clear the static seed paragraph in index.html
     profile.bio.forEach((paragraph) => {
       bio.appendChild(Site.el("p", null, paragraph));
     });
