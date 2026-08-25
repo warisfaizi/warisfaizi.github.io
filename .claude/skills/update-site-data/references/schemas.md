@@ -80,6 +80,22 @@ Array, newest first. Rendered by `js/working_papers.js` (same card as publicatio
 - `id` is a unique identifier: `modal_[lastname]_[keyword]`.
 - Optional: `url`, `pdfPath`, `bibPath`.
 
+## data/in_preparation.json — manuscripts ready for submission
+
+Array, newest first. Rendered by `js/in_preparation.js` with the same card as publications.
+Use this for finished manuscripts that have a target journal but have not been submitted yet;
+once submitted, move the entry to `data/working_papers.json`.
+
+```json
+{
+  "title": "Social Capital and the Timing of Corporate Elite Mobility",
+  "authors": "Waris Ahmad Faizi",
+  "publication": "Research in Social Stratification and Mobility (Ready for submission)",
+  "year": "2026",
+  "id": "modal_faizi_corporateelite"
+}
+```
+
 ## data/ongoing_projects.json — works in progress
 
 Array. Rendered by `js/ongoing_projects.js`.
