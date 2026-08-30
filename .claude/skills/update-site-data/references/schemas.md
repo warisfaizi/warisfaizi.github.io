@@ -96,11 +96,6 @@ once submitted, move the entry to `data/working_papers.json`.
 }
 ```
 
-## data/thesis.json — graduate theses
-
-Array. Rendered by `js/thesis.js` with the same card as publications. Put the degree in
-`publication`, e.g. `"M.A. Thesis, OSCE Academy in Bishkek"`.
-
 ## data/ongoing_projects.json — works in progress
 
 Array. Rendered by `js/ongoing_projects.js`.

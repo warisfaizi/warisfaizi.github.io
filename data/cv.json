@@ -114,6 +114,19 @@
       "type": "timeline",
       "items": [
         {
+          "period": "2023 – 2024",
+          "title": "Research Consultant",
+          "org": "International Finance Corporation (IFC), World Bank Group — remote"
+        },
+        {
+          "period": "2020 – 2022",
+          "title": "Intern",
+          "org": "Organization for Security and Co-operation in Europe (OSCE) Secretariat",
+          "bullets": [
+            "September – October 2020; November 2021 – February 2022 (six months)"
+          ]
+        },
+        {
           "period": "2021",
           "title": "Research Consultant",
           "org": "The World Bank Project, Pearl Horizon Consulting"
@@ -170,18 +183,18 @@
         },
         {
           "period": "2024",
-          "title": "DAAD Scholarship",
+          "title": "Erasmus+ Exchange Scholarship",
+          "org": "University of Tübingen, Germany"
+        },
+        {
+          "period": "2023",
+          "title": "German Academic Exchange Service (DAAD) Scholarship",
           "org": "Germany"
         },
         {
           "period": "2023",
           "title": "Student Initiative Development Program Fund",
           "org": "Center for Civic Engagement, American University of Central Asia, Bishkek"
-        },
-        {
-          "period": "2023",
-          "title": "Erasmus+ Exchange Scholarship",
-          "org": "University of Tübingen, Germany"
         },
         {
           "period": "2022",
