@@ -62,6 +62,14 @@ Array, newest first. Rendered by `js/publications.js` (via `Site.paperCard`).
 - Optional: `pdfPath`, `bibPath` (links only render when present). `url` adds a "Link" item.
 - The site owner's name is emphasized automatically (`Site.SELF`).
 
+## data/revise_resubmit.json — manuscripts invited to revise and resubmit
+
+Array, newest first. Rendered by `js/revise_resubmit.js` with the same card as publications.
+An R&R reads as more advanced than a fresh submission, so it gets its own section above
+"Manuscripts Under Review". Same fields as `working_papers.json`; keep the status in
+`publication`, e.g. `"Sociology Compass (Revise and Resubmit)"`. On acceptance the entry moves
+to `publications.json`; if it is rejected, to `in_preparation.json`.
+
 ## data/working_papers.json — manuscripts under review
 
 Array, newest first. Rendered by `js/working_papers.js` (same card as publications).
