@@ -22,7 +22,7 @@ the profile links, and needs the same treatment.
 | Page | Sections | Data files |
 | --- | --- | --- |
 | `index.html` | Hero, About, News | `profile.json`, `news.json` |
-| `research.html` | Publications, Manuscripts Under Review, Manuscripts in Preparation, Works in Progress | `publications.json`, `working_papers.json`, `in_preparation.json`, `ongoing_projects.json` |
+| `research.html` | Publications, Manuscripts Under Review, Manuscripts in Preparation, Thesis, Works in Progress | `publications.json`, `working_papers.json`, `in_preparation.json`, `thesis.json`, `ongoing_projects.json` |
 | `cv.html` | Biography, full C.V. | `profile.json`, `cv.json` |
 | `talks.html` | Conference presentations | `talks.json` |
 | `teaching.html` | Courses (grouped) | `teaching.json` |
@@ -42,6 +42,7 @@ and `<footer class="site-footer">` that `js/chrome.js` fills, then `js/utils.js`
 | Publications | `data/publications.json` | `js/publications.js` |
 | Manuscripts under review | `data/working_papers.json` | `js/working_papers.js` |
 | Manuscripts in preparation | `data/in_preparation.json` | `js/in_preparation.js` |
+| Thesis | `data/thesis.json` | `js/thesis.js` |
 | Works in progress | `data/ongoing_projects.json` | `js/ongoing_projects.js` |
 | C.V. | `data/cv.json` | `js/cv.js` |
 | Talks | `data/talks.json` | `js/talks.js` |

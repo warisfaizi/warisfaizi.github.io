@@ -5,10 +5,26 @@
       "heading": "Education",
       "type": "timeline",
       "items": [
-        { "period": "2024 – present", "title": "Ph.D., Sociology", "org": "Virginia Tech Graduate School" },
-        { "period": "2023", "title": "M.A., Sociology", "org": "American University of Central Asia" },
-        { "period": "2020", "title": "M.A., Economics", "org": "Organization for Security and Cooperation in Europe (OSCE) Academy" },
-        { "period": "2015", "title": "B.A., Economics", "org": "Kabul University" }
+        {
+          "period": "2024 – present",
+          "title": "Ph.D., Sociology",
+          "org": "Virginia Tech Graduate School"
+        },
+        {
+          "period": "2023",
+          "title": "M.A., Sociology",
+          "org": "American University of Central Asia"
+        },
+        {
+          "period": "2020",
+          "title": "M.A., Economics",
+          "org": "Organization for Security and Cooperation in Europe (OSCE) Academy"
+        },
+        {
+          "period": "2015",
+          "title": "B.A., Economics",
+          "org": "Kabul University"
+        }
       ]
     },
     {
@@ -23,7 +39,7 @@
       ]
     },
     {
-      "heading": "Academic and Professional Experience",
+      "heading": "Academic Appointments",
       "type": "timeline",
       "items": [
         {
@@ -44,7 +60,11 @@
             "Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes"
           ]
         },
-        { "period": "May – June 2026", "title": "Graduate Research Assistant", "org": "Department of Sociology, Virginia Tech" },
+        {
+          "period": "May – June 2026",
+          "title": "Graduate Research Assistant",
+          "org": "Department of Sociology, Virginia Tech"
+        },
         {
           "period": "2025 – 2026",
           "title": "Graduate Teaching Assistant",
@@ -56,7 +76,11 @@
             "AFST 4354: Topics in Africana Studies"
           ]
         },
-        { "period": "Summer 2025", "title": "Graduate Research Assistant", "org": "Department of Sociology, Virginia Tech" },
+        {
+          "period": "May – July 2025",
+          "title": "Graduate Research Assistant",
+          "org": "Department of Sociology, Virginia Tech"
+        },
         {
           "period": "2024 – 2025",
           "title": "Graduate Teaching Assistant",
@@ -68,34 +92,129 @@
             "AFST 4354: Topics in Africana Studies"
           ]
         },
-        { "period": "2022 – 2023", "title": "Research Intern", "org": "Vice President Office for Academic Affairs, American University of Central Asia" },
-        { "period": "2021", "title": "Research Fellow", "org": "Central Asia Program, George Washington University" },
-        { "period": "2021", "title": "Research Intern", "org": "Center for Research and Graduate Education (CRGE), Kazakh-German University (DKU)" },
-        { "period": "2021", "title": "Research Consultant", "org": "The World Bank Project, Pearl Horizon Consulting" },
-        { "period": "2019 – 2021", "title": "Lecturer / Instructor", "org": "Gawharshad University" },
-        { "period": "2019 – 2021", "title": "Lecturer / Instructor", "org": "Tolo-e-Aftab Institute of Higher Education" },
-        { "period": "2016 – 2021", "title": "Lecturer / Instructor", "org": "Sayed Jamaluddin Afghan Institute of Higher Education" },
-        { "period": "2016 – 2018", "title": "Lecturer / Instructor", "org": "Fanoos Institute of Higher Education" }
+        {
+          "period": "2022 – 2023",
+          "title": "Research Intern",
+          "org": "Vice President Office for Academic Affairs, American University of Central Asia"
+        },
+        {
+          "period": "2021",
+          "title": "Research Fellow",
+          "org": "Central Asia Program, George Washington University"
+        },
+        {
+          "period": "2021",
+          "title": "Research Intern",
+          "org": "Center for Research and Graduate Education (CRGE), Kazakh-German University (DKU)"
+        }
+      ]
+    },
+    {
+      "heading": "Applied Research and Consulting",
+      "type": "timeline",
+      "items": [
+        {
+          "period": "2021",
+          "title": "Research Consultant",
+          "org": "The World Bank Project, Pearl Horizon Consulting"
+        }
+      ]
+    },
+    {
+      "heading": "Prior Teaching Appointments",
+      "type": "timeline",
+      "items": [
+        {
+          "period": "2019 – 2021",
+          "title": "Lecturer / Instructor",
+          "org": "Gawharshad University"
+        },
+        {
+          "period": "2019 – 2021",
+          "title": "Lecturer / Instructor",
+          "org": "Tolo-e-Aftab Institute of Higher Education"
+        },
+        {
+          "period": "2016 – 2021",
+          "title": "Lecturer / Instructor",
+          "org": "Sayed Jamaluddin Afghan Institute of Higher Education"
+        },
+        {
+          "period": "2016 – 2018",
+          "title": "Lecturer / Instructor",
+          "org": "Fanoos Institute of Higher Education"
+        }
       ]
     },
     {
       "heading": "Awards and Honors",
       "type": "timeline",
       "items": [
-        { "period": "2026", "title": "Dean's Graduate Scholar", "org": "College of Liberal Arts and Human Sciences, Virginia Tech", "bullets": ["CLAHS Fellowship Award"] },
-        { "period": "2026", "title": "Center for Humanities Graduate Student Fellowship", "org": "Virginia Tech" },
-        { "period": "2025", "title": "Patricia and John Edwards Fellowship Award", "org": "Virginia Tech" },
-        { "period": "2023", "title": "Student Initiative Development Program Fund", "org": "Center for Civic Engagement, American University of Central Asia, Bishkek" },
-        { "period": "2022", "title": "Erasmus+ Exchange Scholarship", "org": "Otto-von-Guericke University (OVGU), Germany" },
-        { "period": "2021", "title": "Central Asia Program Research Fellowship", "org": "George Washington University" },
-        { "period": "2021", "title": "M.A. Sociology Program Full Scholarship", "org": "American University of Central Asia" },
-        { "period": "2019", "title": "M.A. Economics Program Full Scholarship", "org": "OSCE Academy" }
+        {
+          "period": "2026",
+          "title": "Dean's Graduate Scholar",
+          "org": "College of Liberal Arts and Human Sciences, Virginia Tech",
+          "bullets": [
+            "CLAHS Fellowship Award"
+          ]
+        },
+        {
+          "period": "2026",
+          "title": "Center for Humanities Graduate Student Fellowship",
+          "org": "Virginia Tech"
+        },
+        {
+          "period": "2025",
+          "title": "Patricia and John Edwards Fellowship Award",
+          "org": "Virginia Tech"
+        },
+        {
+          "period": "2024",
+          "title": "DAAD Scholarship",
+          "org": "Germany"
+        },
+        {
+          "period": "2023",
+          "title": "Student Initiative Development Program Fund",
+          "org": "Center for Civic Engagement, American University of Central Asia, Bishkek"
+        },
+        {
+          "period": "2023",
+          "title": "Erasmus+ Exchange Scholarship",
+          "org": "University of Tübingen, Germany"
+        },
+        {
+          "period": "2022",
+          "title": "Erasmus+ Exchange Scholarship",
+          "org": "Otto-von-Guericke University (OVGU), Germany"
+        },
+        {
+          "period": "2021",
+          "title": "Central Asia Program Research Fellowship",
+          "org": "George Washington University"
+        },
+        {
+          "period": "2021",
+          "title": "M.A. Sociology Program Full Scholarship",
+          "org": "American University of Central Asia"
+        },
+        {
+          "period": "2019",
+          "title": "M.A. Economics Program Full Scholarship",
+          "org": "OSCE Academy"
+        }
       ]
     },
     {
       "heading": "Statistical Software",
       "type": "tags",
-      "items": ["R", "Python", "Stata", "SPSS", "JMP"]
+      "items": [
+        "R",
+        "Python",
+        "Stata",
+        "SPSS",
+        "JMP"
+      ]
     },
     {
       "heading": "Pedagogy Certification",
@@ -117,8 +236,16 @@
       "heading": "University Service",
       "type": "timeline",
       "items": [
-        { "period": "January – June 2026", "title": "Graduate Research Fellow", "org": "Center for Humanities (CfH), Virginia Tech" },
-        { "period": "2023", "title": "Career Development Mentor / Trainer", "org": "American University of Central Asia" }
+        {
+          "period": "January – June 2026",
+          "title": "Graduate Research Fellow",
+          "org": "Center for Humanities (CfH), Virginia Tech"
+        },
+        {
+          "period": "2023",
+          "title": "Career Development Mentor / Trainer",
+          "org": "American University of Central Asia"
+        }
       ]
     },
     {
@@ -133,12 +260,7 @@
             "Categorical Data Analysis: Models for Categorical, Ordinal, and Count Outcomes",
             "Causal Inference for the Social Sciences II",
             "Network Analysis II: Advanced Topics",
-            "Structural Equation Models with Latent Variables",
-            "Matrix Algebra, Calculus, and Probability: Introduction and Review",
-            "Introduction to Computing for Data Analysis",
-            "Introduction to Python",
-            "Introduction to the R Statistical Computing Environment",
-            "Introduction to the LaTeX Text Processing System"
+            "Structural Equation Models with Latent Variables"
           ]
         }
       ]
@@ -147,25 +269,82 @@
       "heading": "Training, Workshops, and Events",
       "type": "list",
       "items": [
-        { "period": "2026", "text": "Social Network Analysis, University of California, Davis (Coursera)" },
-        { "period": "2026", "text": "Causal Inference, Columbia University (Coursera)" },
-        { "period": "2026", "text": "Social and Economic Networks: Models and Analysis, Stanford University (Coursera)" },
-        { "period": "2026", "text": "Narrative Economics, Yale University (Coursera)" },
-        { "period": "2026", "text": "Best Practices for Mentorship in Teaching, Virginia Tech" },
-        { "period": "2026", "text": "Introduction to Geospatial Mapping and ArcGIS Online, Virginia Tech" },
-        { "period": "2026", "text": "Manage Your Scholarly Identity Challenge Course, Virginia Tech" },
-        { "period": "2026", "text": "Connect to ARC Systems with VSCode, Virginia Tech" },
-        { "period": "2026", "text": "Advanced Research Computing Roadmap, Virginia Tech" },
-        { "period": "2026", "text": "The Joyful Journey: Graduate Student and Postdoctoral Scholar Professional Development Series, CIRTL" },
-        { "period": "2025", "text": "Day for Data, AI &amp; Analytics Symposium, Center for the Arts, Virginia Tech" },
-        { "period": "2025", "text": "Datapalooza 2025: Truth and Accountability in the Age of AI, University of Virginia School of Data Science" },
-        { "period": "2025", "text": "Preparing for the Academic Job Market Workshop Series, University of North Carolina at Chapel Hill" },
-        { "period": "2025", "text": "Summer Institute for Undergraduate Education, Virginia Tech" },
-        { "period": "2025", "text": "Introduction to LaTeX with Overleaf, Virginia Tech" },
-        { "period": "2025", "text": "Introduction to Database Management and SQL, Virginia Tech" },
-        { "period": "2024", "text": "Social &amp; Behavioral Research (CITI Basic Course)" },
-        { "period": "2024", "text": "Graduate Teaching Assistant (GTA) Workshop Series, Virginia Tech" },
-        { "period": "2021 – 2025", "text": "Courses in Python and R, LinkedIn Learning and DataCamp" }
+        {
+          "period": "2026",
+          "text": "Social Network Analysis, University of California, Davis (Coursera)"
+        },
+        {
+          "period": "2026",
+          "text": "Causal Inference, Columbia University (Coursera)"
+        },
+        {
+          "period": "2026",
+          "text": "Social and Economic Networks: Models and Analysis, Stanford University (Coursera)"
+        },
+        {
+          "period": "2026",
+          "text": "Narrative Economics, Yale University (Coursera)"
+        },
+        {
+          "period": "2026",
+          "text": "Best Practices for Mentorship in Teaching, Virginia Tech"
+        },
+        {
+          "period": "2026",
+          "text": "Introduction to Geospatial Mapping and ArcGIS Online, Virginia Tech"
+        },
+        {
+          "period": "2026",
+          "text": "Manage Your Scholarly Identity Challenge Course, Virginia Tech"
+        },
+        {
+          "period": "2026",
+          "text": "Connect to ARC Systems with VSCode, Virginia Tech"
+        },
+        {
+          "period": "2026",
+          "text": "Advanced Research Computing Roadmap, Virginia Tech"
+        },
+        {
+          "period": "2026",
+          "text": "The Joyful Journey: Graduate Student and Postdoctoral Scholar Professional Development Series, CIRTL"
+        },
+        {
+          "period": "2025",
+          "text": "Day for Data, AI &amp; Analytics Symposium, Center for the Arts, Virginia Tech"
+        },
+        {
+          "period": "2025",
+          "text": "Datapalooza 2025: Truth and Accountability in the Age of AI, University of Virginia School of Data Science"
+        },
+        {
+          "period": "2025",
+          "text": "Preparing for the Academic Job Market Workshop Series, University of North Carolina at Chapel Hill"
+        },
+        {
+          "period": "2025",
+          "text": "Summer Institute for Undergraduate Education, Virginia Tech"
+        },
+        {
+          "period": "2025",
+          "text": "Introduction to LaTeX with Overleaf, Virginia Tech"
+        },
+        {
+          "period": "2025",
+          "text": "Introduction to Database Management and SQL, Virginia Tech"
+        },
+        {
+          "period": "2024",
+          "text": "Social &amp; Behavioral Research (CITI Basic Course)"
+        },
+        {
+          "period": "2024",
+          "text": "Graduate Teaching Assistant (GTA) Workshop Series, Virginia Tech"
+        },
+        {
+          "period": "2021 – 2025",
+          "text": "Courses in Python and R, LinkedIn Learning and DataCamp"
+        }
       ]
     },
     {
