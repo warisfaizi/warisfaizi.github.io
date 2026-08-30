@@ -58,7 +58,7 @@
         {
           "period": "August 2026",
           "title": "Fellow",
-          "org": "Summer Institutes in Computational Social Science (SICSS), Stanford University"
+          "org": "Summer Institute in Computational Social Science (SICSS), Stanford University"
         },
         {
           "period": "July – August 2026",
@@ -99,21 +99,6 @@
             "AFST 1814: Introduction to African Studies",
             "AFST 4354: Topics in Africana Studies"
           ]
-        },
-        {
-          "period": "2022 – 2023",
-          "title": "Research Intern",
-          "org": "Vice President Office for Academic Affairs, American University of Central Asia"
-        },
-        {
-          "period": "2021",
-          "title": "Research Fellow",
-          "org": "Central Asia Program, George Washington University"
-        },
-        {
-          "period": "2021",
-          "title": "Research Intern",
-          "org": "Center for Research and Graduate Education (CRGE), Kazakh-German University (DKU)"
         }
       ]
     },
@@ -127,6 +112,11 @@
           "org": "International Finance Corporation (IFC), World Bank Group"
         },
         {
+          "period": "2022 – 2023",
+          "title": "Research Intern",
+          "org": "Vice President Office for Academic Affairs, American University of Central Asia"
+        },
+        {
           "period": "2020 – 2022",
           "title": "Intern",
           "org": "Organization for Security and Co-operation in Europe (OSCE) Secretariat",
@@ -138,6 +128,16 @@
           "period": "2021",
           "title": "Research Consultant",
           "org": "The World Bank Project, Pearl Horizon Consulting"
+        },
+        {
+          "period": "2021",
+          "title": "Research Fellow",
+          "org": "Central Asia Program, George Washington University"
+        },
+        {
+          "period": "2021",
+          "title": "Research Intern",
+          "org": "Center for Research and Graduate Education (CRGE), Kazakh-German University (DKU)"
         }
       ]
     },
