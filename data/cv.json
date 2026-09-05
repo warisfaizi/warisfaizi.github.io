@@ -254,9 +254,14 @@
       ]
     },
     {
-      "heading": "University Service",
+      "heading": "Service",
       "type": "timeline",
       "items": [
+        {
+          "period": "2026",
+          "title": "Manuscript Reviewer",
+          "org": "Social Indicators Research"
+        },
         {
           "period": "January – June 2026",
           "title": "Graduate Research Fellow",
