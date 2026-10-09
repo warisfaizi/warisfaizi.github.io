@@ -316,9 +316,9 @@ main {
 }
 
 .hero-name {
-  font-size: clamp(1.6rem, 7vw, 3.9rem);
+  font-size: clamp(1.4rem, 4.6vw, 2.75rem);
   font-weight: 300;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   margin: 0 0 1.1rem;
   line-height: 1.08;

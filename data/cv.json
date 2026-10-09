@@ -8,12 +8,20 @@
         {
           "period": "2024 – present",
           "title": "Ph.D., Sociology",
-          "org": "Virginia Tech Graduate School"
+          "org": "Virginia Tech Graduate School",
+          "bullets": [
+            "Specialization areas: Economic Sociology; Knowledge and Technology"
+          ]
+        },
+        {
+          "period": "2026",
+          "title": "Graduate Certificate, Future Professoriate",
+          "org": "Virginia Tech"
         },
         {
           "period": "March – July 2024",
           "title": "Visiting Graduate Student",
-          "org": "University of Tübingen, Germany (Erasmus+)"
+          "org": "University of Tübingen, Germany (Erasmus+ and DAAD)"
         },
         {
           "period": "2023",
@@ -53,7 +61,10 @@
         {
           "period": "2026 – present",
           "title": "Graduate Research Assistant",
-          "org": "Department of Sociology, Virginia Tech"
+          "org": "Department of Sociology, Virginia Tech",
+          "bullets": [
+            "Project Manager, GRASS Project (social dimensions of regenerative grazing; mixed-methods interviews and surveys), USDA-NRCS–funded Virginia Tech–West Virginia University collaboration; PI: Dr. Liesel Ritchie"
+          ]
         },
         {
           "period": "August 2026",
@@ -106,6 +117,14 @@
       "heading": "Research and Professional Experience",
       "type": "timeline",
       "items": [
+        {
+          "period": "2026 – present",
+          "title": "Research Team Member",
+          "org": "Post-institute research project of the Summer Institute in Computational Social Science (SICSS), Stanford University",
+          "bullets": [
+            "LLM-agent simulations of online polarization (built the ANES-derived agent population)"
+          ]
+        },
         {
           "period": "2023 – 2024",
           "title": "Research Consultant",
@@ -185,6 +204,11 @@
           "org": "Virginia Tech"
         },
         {
+          "period": "2026",
+          "title": "Travel Fund Program (TFP) Award",
+          "org": "Graduate and Professional Student Senate, Virginia Tech (for ASA 2026)"
+        },
+        {
           "period": "2025",
           "title": "Patricia and John Edwards Fellowship Award",
           "org": "Virginia Tech"
@@ -223,6 +247,20 @@
           "period": "2019",
           "title": "M.A. Economics Program Full Scholarship",
           "org": "OSCE Academy"
+        }
+      ]
+    },
+    {
+      "heading": "Media Coverage",
+      "type": "list",
+      "items": [
+        {
+          "period": "2026",
+          "text": "Research featured in <em>VT News</em>, &ldquo;<a href='https://news.vt.edu/articles/2026/09/cnre-rui.html' target='_blank'>How urgently do AI-exposed jobs need retraining?</a>&rdquo; (Sept. 17, 2026), on the <em>Telematics and Informatics</em> reskilling-urgency study"
+        },
+        {
+          "period": "2026",
+          "text": "Coverage republished by <a href='https://www.technology.org/2026/09/28/how-urgently-do-ai-exposed-jobs-need-retraining/' target='_blank'>Technology.org</a> (Sept. 28, 2026)"
         }
       ]
     },
@@ -295,6 +333,10 @@
       "heading": "Training, Workshops, and Events",
       "type": "list",
       "items": [
+        {
+          "period": "2026",
+          "text": "Pursuing a Postdoc Proactively series, Office of Postdoctoral Affairs, Virginia Tech (Oct.–Nov. 2026)"
+        },
         {
           "period": "2026",
           "text": "Social Network Analysis, University of California, Davis (Coursera)"
@@ -383,7 +425,9 @@
         "Society for the Study of Social Problems (SSSP)",
         "Association for Humanist Sociology (AHS)",
         "Pacific Sociological Association (PSA)",
+        "Mid-South Sociological Association (MSSA)",
         "Stanford Center on Poverty and Inequality (CPI), Stanford University",
+        "Center for Future Work Places and Practices (CFWPP), Virginia Tech",
         "Dataism Laboratory for Quantitative Finance (DLQF), Virginia Tech",
         "Center for Humanities (CfH), Virginia Tech"
       ]
