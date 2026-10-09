@@ -17,7 +17,10 @@ const Site = {
    */
   async fetchJSON(path) {
     try {
-      const res = await fetch(path);
+      // "no-cache" revalidates with the server (If-None-Match) rather than
+      // serving a stale copy: GitHub Pages sends max-age=600 on data files,
+      // so edits would otherwise take up to ten minutes to appear.
+      const res = await fetch(path, { cache: "no-cache" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.json();
     } catch (err) {
