@@ -3,6 +3,42 @@
     "year": "2026",
     "items": [
       {
+        "type": "Publication",
+        "htmltext": "Our article <a href='https://doi.org/10.1111/soc4.70263' target='_blank'>&ldquo;The Importance of Age Inequality for Intersectional Scholarship: The Case of the Workplace&rdquo;</a> (with Toni Calasanti and Neal King) is published open access in <em>Sociology Compass</em>."
+      },
+      {
+        "type": "Talk",
+        "htmltext": "Presenting &ldquo;From Perk to Norm: The Diffusion of Remote Work and the Divergence of Its Satisfaction and Pay&rdquo; at the <em>Population Association of America</em> 2027 Annual Meeting in Seattle (April 2027)."
+      },
+      {
+        "type": "Talk",
+        "htmltext": "Presenting &ldquo;Not All Moves Are Equal: How Employment and Capital Composition Shape Residential Mobility Strategies&rdquo; at the <em>Association for Humanist Sociology</em> 50th Annual Meeting at Rutgers University, New Brunswick, NJ (October 2026)."
+      },
+      {
+        "type": "Talk",
+        "htmltext": "Presenting &ldquo;Neoliberal Doxa across the World-System: Economic Beliefs in the Global North and South&rdquo; at the <em>Mid-South Sociological Association</em> 52nd Annual Conference in Huntsville, AL (October 2026)."
+      },
+      {
+        "type": "General",
+        "htmltext": "Began serving as a manuscript reviewer for <em>Social Indicators Research</em>."
+      },
+      {
+        "type": "Media",
+        "htmltext": "Our reskilling-urgency research was featured in VT News: <a href='https://news.vt.edu/articles/2026/09/cnre-rui.html' target='_blank'>&ldquo;How urgently do AI-exposed jobs need retraining?&rdquo;</a> and republished by <a href='https://www.technology.org/2026/09/28/how-urgently-do-ai-exposed-jobs-need-retraining/' target='_blank'>Technology.org</a>."
+      },
+      {
+        "type": "General",
+        "htmltext": "Joined the GRASS project as Graduate Research Assistant and Project Manager, working with Dr. Liesel Ritchie on the social dimensions of regenerative grazing (a Virginia Tech&ndash;West Virginia University collaboration)."
+      },
+      {
+        "type": "Award",
+        "htmltext": "Received a Travel Fund Program award from the Graduate and Professional Student Senate, Virginia Tech, supporting ASA 2026."
+      },
+      {
+        "type": "General",
+        "htmltext": "Became a graduate affiliate of the Center for Future Work Places and Practices (CFWPP) at Virginia Tech."
+      },
+      {
         "type": "General",
         "htmltext": "Took part in the <a href='https://sicss.io/' target='_blank'>Summer Institute in Computational Social Science (SICSS)</a> at Stanford University."
       },

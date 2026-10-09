@@ -671,6 +671,48 @@ main {
   }
 }
 
+/* --- Home-page research pipeline ----------------------------------------- */
+
+.pipeline-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pipeline-list li {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1rem;
+}
+
+.pipeline-list li:last-child {
+  border-bottom: none;
+}
+
+.pipeline-title {
+  flex: 1 1 22rem;
+  font-weight: 600;
+  font-size: 0.98rem;
+  line-height: 1.4;
+}
+
+.pipeline-status {
+  flex: 0 0 auto;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--maroon);
+  font-style: italic;
+}
+
+.pipeline-more {
+  margin: 1.1rem 0 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 /* --- News ----------------------------------------------------------------- */
 
 .news-year {

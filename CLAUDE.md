@@ -21,7 +21,7 @@ the profile links, and needs the same treatment.
 
 | Page | Sections | Data files |
 | --- | --- | --- |
-| `index.html` | Hero, About, News | `profile.json`, `news.json` |
+| `index.html` | Hero, About, Publications, Under Review & In Progress, News | `profile.json`, `publications.json`, the pipeline files, `news.json` |
 | `research.html` | Publications, Revise and Resubmit, Manuscripts Under Review, Manuscripts in Preparation, Works in Progress | `publications.json`, `revise_resubmit.json`, `working_papers.json`, `in_preparation.json`, `ongoing_projects.json` |
 | `cv.html` | Biography, full C.V. | `profile.json`, `cv.json` |
 | `talks.html` | Conference presentations | `talks.json` |
@@ -38,6 +38,7 @@ and `<footer class="site-footer">` that `js/chrome.js` fills, then `js/utils.js`
 | Section | Data file | Renderer |
 | --- | --- | --- |
 | Hero / bio / interests / contact | `data/profile.json` | `js/profile.js` |
+| Home-page pipeline summary | `revise_resubmit.json`, `working_papers.json`, `in_preparation.json`, `ongoing_projects.json` | `js/home_research.js` |
 | News | `data/news.json` | `js/news.js` |
 | Publications | `data/publications.json` | `js/publications.js` |
 | Revise and resubmit | `data/revise_resubmit.json` | `js/revise_resubmit.js` |

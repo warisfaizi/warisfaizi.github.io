@@ -36,7 +36,7 @@ interest chips, and the contact page. Also fills the nav brand and footer on eve
 
 - `bio` is an array of paragraphs; `interests` renders as chips.
 - `links[].icon` selects an inline SVG from `Site.ICONS` in `js/utils.js`:
-  `scholar`, `linkedin`, `github`, `university`, `email`, `cv`. Unknown names fall back to
+  `scholar`, `orcid`, `linkedin`, `github`, `university`, `email`, `cv`. Unknown names fall back to
   `university`. The `cv` icon renders as a labelled pill rather than a circle.
 - Optional: `displayName` (the big name in the home hero; falls back to `name`, which is what the
   nav brand and footer always use), `tagline`, `photoPath`, `photoFallback` (shown if `photoPath`
