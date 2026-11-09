@@ -4,19 +4,27 @@
     "items": [
       {
         "type": "Publication",
+        "htmltext": "My solo-authored article &ldquo;From Perk to Norm: The Diffusion of Remote Work and the Divergence of Its Satisfaction and Pay&rdquo; has been accepted for publication in <em>Social Currents</em>."
+      },
+      {
+        "type": "General",
+        "htmltext": "Passed my Ph.D. qualifying exams and advanced to candidacy."
+      },
+      {
+        "type": "Talk",
+        "htmltext": "Our article &ldquo;Mapping Workforce Reskilling Urgency in the Age of AI&rdquo; is on the program of the <em>Southern Economic Association</em> 96th Annual Meeting in Houston (November 2026), presented by co-author Can Dogan."
+      },
+      {
+        "type": "Publication",
         "htmltext": "Our article <a href='https://doi.org/10.1111/soc4.70263' target='_blank'>&ldquo;The Importance of Age Inequality for Intersectional Scholarship: The Case of the Workplace&rdquo;</a> (with Toni Calasanti and Neal King) is published open access in <em>Sociology Compass</em>."
       },
       {
         "type": "Talk",
-        "htmltext": "Presenting &ldquo;From Perk to Norm: The Diffusion of Remote Work and the Divergence of Its Satisfaction and Pay&rdquo; at the <em>Population Association of America</em> 2027 Annual Meeting in Seattle (April 2027)."
+        "htmltext": "Submitted &ldquo;From Perk to Norm: The Diffusion of Remote Work and the Divergence of Its Satisfaction and Pay&rdquo; to the <em>Population Association of America</em> 2027 Annual Meeting."
       },
       {
         "type": "Talk",
-        "htmltext": "Presenting &ldquo;Not All Moves Are Equal: How Employment and Capital Composition Shape Residential Mobility Strategies&rdquo; at the <em>Association for Humanist Sociology</em> 50th Annual Meeting at Rutgers University, New Brunswick, NJ (October 2026)."
-      },
-      {
-        "type": "Talk",
-        "htmltext": "Presenting &ldquo;Neoliberal Doxa across the World-System: Economic Beliefs in the Global North and South&rdquo; at the <em>Mid-South Sociological Association</em> 52nd Annual Conference in Huntsville, AL (October 2026)."
+        "htmltext": "Presented &ldquo;Neoliberal Doxa across the World-System: Economic Beliefs in the Global North and South&rdquo; at the <em>Mid-South Sociological Association</em> 52nd Annual Conference in Huntsville, AL (online, October 16, 2026)."
       },
       {
         "type": "General",

@@ -15,7 +15,7 @@ interest chips, and the contact page. Also fills the nav brand and footer on eve
 {
   "name": "Waris Ahmad Faizi",
   "displayName": "Waris Faizi",
-  "title": "Ph.D. Student in Sociology",
+  "title": "Ph.D. Candidate in Sociology",
   "affiliation": "Department of Sociology, Virginia Tech",
   "tagline": "Economic Sociology · Digital Sociology · …",
   "photoPath": "./assets/images/headshot.jpg",

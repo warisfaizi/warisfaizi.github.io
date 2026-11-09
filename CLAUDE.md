@@ -1,6 +1,6 @@
 # warisfaizi.github.io
 
-The personal academic website of Waris Ahmad Faizi (Ph.D. student in Sociology, Virginia Tech).
+The personal academic website of Waris Ahmad Faizi (Ph.D. candidate in Sociology, Virginia Tech).
 JSON-driven, vanilla HTML/CSS/JS, no build step, deployed to GitHub Pages as-is.
 
 ## Architecture (the one rule that matters)
